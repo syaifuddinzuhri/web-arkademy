@@ -1,4 +1,18 @@
 $(function () {
+  $(".btnAddProduct").on("click", function () {
+    $("#formModalLabel").html("Tambah produk baru");
+    $(".modal-footer button[type=submit]").html("Tambah");
+    $(".modal-body form").attr(
+      "action",
+      "http://localhost/web-arkademy/public/product/addProduct"
+    );
+    $("#id").val("");
+    $("#produk").val("");
+    $("#harga").val("");
+    $("#jumlah").val("");
+    $("#keterangan").val("");
+  });
+
   $(".modalUpdate").on("click", function () {
     $("#formModalLabel").html("Update data produk");
     $(".modal-footer button[type=submit]").html("Simpan");

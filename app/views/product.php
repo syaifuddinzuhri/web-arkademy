@@ -58,7 +58,7 @@
         </button>
       </div>
       <div class="modal-body">
-        <form action="<?= BASEURL; ?>/product/addProduct" method="post">
+        <form action="" method="post">
           <input type="hidden" name="id" id="id">
           <div class="form-group">
             <label for="produk">Nama Produk</label>
