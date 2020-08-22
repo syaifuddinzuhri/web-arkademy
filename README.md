@@ -1,4 +1,4 @@
-# web-arkademy
+# APLIKASI CRUD || BOOTCAMP ARKADEMY
 Membuat aplikasi CRUD pada sebuah website dengan menggunakan PHP dan MySQL untuk menyelesaikan tugas Bootcamp Arkademy.
 
 ------------------------------------------------------------------------------------------------------------------------------
@@ -30,5 +30,16 @@ Membuat aplikasi CRUD pada sebuah website dengan menggunakan PHP dan MySQL untuk
 ------------------------------------------------------------------------------------------------------------------------------
 ### **ALERT FAILED OR SUCCESS**
 
+![Screenshot (19)](https://user-images.githubusercontent.com/59104470/90946220-feb6cc80-e454-11ea-9612-9d01ea5e181c.png)
+
+![Screenshot (20)](https://user-images.githubusercontent.com/59104470/90946222-06767100-e455-11ea-9a44-cac79acdc22a.png)
+
+![Screenshot (21)](https://user-images.githubusercontent.com/59104470/90946226-0d04e880-e455-11ea-8b30-52ddd9abdd92.png)
+
+![Screenshot (22)](https://user-images.githubusercontent.com/59104470/90946228-11c99c80-e455-11ea-9c52-b8fc09a097e6.png)
+
+![Screenshot (23)](https://user-images.githubusercontent.com/59104470/90946231-17bf7d80-e455-11ea-9223-765f69f3c97d.png)
+
+![Screenshot (24)](https://user-images.githubusercontent.com/59104470/90946236-1db55e80-e455-11ea-9b8f-ef83bbac05dc.png)
 
 ------------------------------------------------------------------------------------------------------------------------------
