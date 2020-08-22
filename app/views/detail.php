@@ -17,8 +17,9 @@
       </div>
       <ul class="list-group">
         <li class="list-group-item">Nama Produk : <strong><?= $data['produk']['nama_produk']; ?></strong></li>
-        <li class="list-group-item">Harga : <strong><?= $data['produk']['harga']; ?></strong></li>
-        <li class="list-group-item">Jumlah : <strong><?= $data['produk']['jumlah']; ?></strong></li>
+        <li class="list-group-item">Harga :
+          <strong>Rp <?= number_format($data['produk']['harga'], 2, ',', '.');  ?></strong></li>
+        <li class="list-group-item">Jumlah : <strong><?= $data['produk']['jumlah']; ?> buah</strong></li>
         <li class="list-group-item">Keterangan : <strong><?= $data['produk']['keterangan']; ?></strong></li>
       </ul>
     </div>
